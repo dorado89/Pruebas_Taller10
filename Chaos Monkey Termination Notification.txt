@@ -1,0 +1,2 @@
+Chaos Monkey Termination Notification
+Instance i-0bbd24871453029d9 of ASG monkey-target is being terminated by Chaos monkey. Chaos type: ShutdownInstance. 

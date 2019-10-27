@@ -1,0 +1,11 @@
+Conformity monkey execution summary
+Total nonconforming clusters = 0 in region us-west-2
+List:
+
+Total failed to check clusters = 0 in region us-west-2
+List:
+
+Total nonexistent clusters = 0 in region us-west-2
+List:
+
+Total conforming clusters = 2 in region us-west-2
